@@ -53,6 +53,9 @@ a:hover {
 .bg-red {
     background: #ffe5e5;
 }
+.bg-black {
+    background: powderblue;
+}
 .card {
     padding: 15px 20px;
     margin-bottom: 20px;
